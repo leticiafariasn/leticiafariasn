@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/leticiafariasn/leticiafariasn/main/banner.png" alt="SpellTalk banner" style="margin-left:80px;" />
-
 ## Oi, eu sou a Letícia! 🪄
 
 Sou professora de inglês e estudante de **Letras (Português-Alemão)** e **Direito**.  
