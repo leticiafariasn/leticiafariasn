@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/leticiafariasn/leticiafariasn/main/banner.png" alt="SpellTalk banner" style="width:80%;" />
+<img src="https://raw.githubusercontent.com/leticiafariasn/leticiafariasn/main/banner.png" alt="SpellTalk banner" style="margin-left:80px;" />
 
 ## Oi, eu sou a Letícia! 🪄
 
