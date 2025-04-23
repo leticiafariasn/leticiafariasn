@@ -1,3 +1,6 @@
+[![Rebelchris
+header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
+
 ### Oi, eu sou a Letícia 👋
 
 🎓 Estudante de **Letras (Português/Alemão)** e **Direito**  
