@@ -6,7 +6,7 @@
 📚 Bolsista em **Linguística Computacional**
 
 🔗 Me encontre por aí:
-- 💼 [Meu LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-farias-nunes/))
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-farias-nunes/)
 - 📫 Contato: leticia.spelltalk@gmail.com
 - 🌐 [Meu site](https://leticiafariasn.github.io)
 
