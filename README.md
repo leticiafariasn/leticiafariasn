@@ -1,4 +1,4 @@
-## Oi, eu sou a Letícia! 🪄
+## Oi, eu sou a Letícia! 👋🏻
 
 Sou professora de inglês e estudante de **Letras (Português-Alemão)** e **Direito**.  
 Apaixonada por **ensino de idiomas**, **tecnologia** e **RPG**, estou desenvolvendo a plataforma **SpellTalk**:  
@@ -15,7 +15,6 @@ uma proposta lúdica e prática para o aprendizado de línguas! 🌍💬
 ![HTML5](https://img.shields.io/badge/HTML5-fc5b86?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-6b5cbe?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-00bfa6?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-6b5cbe?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github)
 ![PhosphorIcons](https://img.shields.io/badge/Phosphor-00bfa6?style=for-the-badge&logoColor=white)
 
@@ -32,6 +31,6 @@ uma proposta lúdica e prática para o aprendizado de línguas! 🌍💬
 
 ### 🔗 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-farias-nunes/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/letícia-farias-nunes/)
 - 🌐 [Meu site](https://leticiafariasn.github.io)
 - 📫 Email: leticia.spelltalk@gmail.com
