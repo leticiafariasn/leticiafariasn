@@ -1,23 +1,39 @@
-[![Rebelchris
-header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
+<img src="https://raw.githubusercontent.com/leticiafariasn/leticiafariasn/main/banner-spelltalk.png" alt="SpellTalk banner" style="width:100%;" />
 
-### Oi, eu sou a Letícia 👋
+## Oi, eu sou a Letícia! 🪄
 
-🎓 Estudante de **Letras (Português/Alemão)** e **Direito**  
-🧠 Apaixonada por **tecnologia, ensino de idiomas e RPGs**  
-💻 Atualmente aprendendo **Tailwind**, **DaisyUI** e **GitHub**  
-📚 Bolsista em **Linguística Computacional**
+Sou professora de inglês e estudante de **Letras (Português-Alemão)** e **Direito**.  
+Apaixonada por **ensino de idiomas**, **tecnologia** e **RPG**, estou desenvolvendo a plataforma **SpellTalk**:  
+uma proposta lúdica e prática para o aprendizado de línguas! 🌍💬
 
-🔗 Me encontre por aí:
-- 💼 [Meu LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-farias-nunes/)
-- 📫 Contato: leticia.spelltalk@gmail.com
-- 🌐 [Meu site](https://leticiafariasn.github.io)
+📍 Fortaleza – CE  
+📚 Bolsista de Linguística Computacional  
+💡 Atualmente aprendendo: **Tailwind**, **DaisyUI**, **HTML** e **GitHub**
 
 ---
 
-#### 🧰 Tecnologias que uso
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+### 🛠️ Tecnologias e Ferramentas
 
+![HTML5](https://img.shields.io/badge/HTML5-fc5b86?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6b5cbe?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-00bfa6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-6b5cbe?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github)
+![PhosphorIcons](https://img.shields.io/badge/Phosphor-00bfa6?style=for-the-badge&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiafariasn&show_icons=true&theme=tokyonight&hide_title=true&hide=issues&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafariasn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+### 🔗 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-farias-nunes/)
+- 🌐 [Meu site](https://leticiafariasn.github.io)
+- 📫 Email: leticia.spelltalk@gmail.com
