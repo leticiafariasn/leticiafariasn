@@ -1,6 +1,6 @@
 ## Oi, eu sou a Letícia! 👋🏻
 
-Sou professora de inglês e estudante de **Letras (Português-Alemão)** e **Direito**.  
+Sou professora de inglês e formada em **Letras Português, Alemão e Inglês **.  
 Apaixonada por **ensino de idiomas**, **tecnologia** e **RPG**, estou desenvolvendo a plataforma **SpellTalk**:  
 uma proposta lúdica e prática para o aprendizado de línguas! 🌍💬
 
